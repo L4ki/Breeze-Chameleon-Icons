@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 4 6 L 4 11 L 4 20 L 3 20 L 3 21 L 3.0019531 21 C 3.0019031 21.004 3 21.008019 3 21.011719 L 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 61 21.011719 L 61 21 L 61 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
+     class="ColorScheme-Highlight"
+     />
+ <path 
+     style="fill-opacity:0.33;fill-rule:evenodd"
+     d="M 4 6 L 4 11 L 4 20 L 22 20 L 26 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
+     />
+ <path 
+     style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
+     d="M 28 6 L 31 11 L 33 11 L 60 11 L 60 10 L 33 10 L 32 10 L 28 6 z M 26 16 L 22 20 L 3 20 L 3 21 L 23 21 L 26 16 z "
+     />
+ <path 
+     style="fill-opacity:0.2;fill-rule:evenodd"
+     d="M 26 16 L 20 19 L 4 19 L 4 20 L 22 20 L 26 16 z M 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 60 57 L 4 57 L 3 57 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:currentColor;fill-opacity:0.6;stroke:none" 
+     d="M 29 27 L 29 28 L 29 34 L 30 34 L 30 28 L 34 28 L 34 34 L 35 34 L 35 27 L 29 27 z M 25.707031 34.300781 L 25 35.007812 L 29.292969 39.300781 L 29.300781 39.292969 L 32.007812 42 L 34.707031 39.300781 L 39 35.007812 L 38.292969 34.300781 L 34 38.59375 L 32 40.59375 L 30 38.59375 L 25.707031 34.300781 z M 22 44 L 22 46 L 22 47 L 23 47 L 42 47 L 42 46 L 42 44 L 41 44 L 41 46 L 23 46 L 23 44 L 22 44 z "
+     class="ColorScheme-Background"
+     />
+</svg>

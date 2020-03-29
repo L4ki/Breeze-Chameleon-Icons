@@ -3,4 +3,3 @@
 
 
 - The folders change color depending on the Color Scheme You Set
-                                            ---------------------

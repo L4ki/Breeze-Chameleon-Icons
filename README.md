@@ -3,6 +3,8 @@
 
 - The icons are based on the Default "Breeze" Icon Theme.
 
+- Breeze Icon Theme has been developed by The KDE Visual Design Group.
+
 
 - The folders change color depending on the Color Scheme You Set
 

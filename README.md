@@ -13,3 +13,8 @@ Changelog: 26.09.2020.
 
 Added icon: mpd.svg
 
+Changelog: 05.03.2021.
+----------------------
+
+Added Icons: folder-Github, folder-KDE, folder-Manjaro, folder-Neon, folder-openSUSE, folder-Pop_OS, folder-Reddit
+

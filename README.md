@@ -23,3 +23,8 @@ Changelog: 12.04.2021.
 
 Added Icons: folder-Github, folder-KDE, folder-Manjaro, folder-Neon, folder-openSUSE, folder-Pop_OS, folder-Reddit (16, 22, 24)
 
+Changelog: 08.05.2021.
+----------------------
+
+Added new icons: apps (24), status (48, 64)
+

@@ -28,3 +28,17 @@ Changelog: 08.05.2021.
 
 Added new icons: apps (24), status (48, 64)
 
+Changelog: 26.05.2021.
+----------------------
+
+Breeze-Chameleon Dark Icons
+----------------------------
+
+Added icons: 8x8, 16x16, 22x22, emblems (16, 22, 24)
+
+Breeze-Chameleon Light Icons
+----------------------------
+
+Added new icons: emblems (16, 22, 24)
+
+

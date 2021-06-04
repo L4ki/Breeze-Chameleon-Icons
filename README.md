@@ -42,3 +42,8 @@ Breeze-Chameleon Light Icons
 Added new icons: emblems (16, 22, 24)
 
 
+Changelog: 04.06.2021.
+----------------------
+
+Added new icons: actions (48, 64), applets ( 16, 22, 24, 256)
+

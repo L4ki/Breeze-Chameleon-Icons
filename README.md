@@ -52,3 +52,8 @@ Changelog: 11.06.2021.
 
 Added new icons: actions (16)
 
+Changelog: 25.06.2021.
+----------------------
+
+Added new icons: actions (16, 22, 24)
+

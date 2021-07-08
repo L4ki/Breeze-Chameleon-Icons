@@ -57,3 +57,9 @@ Changelog: 25.06.2021.
 
 Added new icons: actions (16, 22, 24)
 
+Changelog: 08.07.2021.
+-----------------------
+
+Added New icons: applets, apps, status
+
+

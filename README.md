@@ -62,4 +62,9 @@ Changelog: 08.07.2021.
 
 Added New icons: applets, apps, status
 
+Changelog: 23.07.2021.
+---------------------
+
+Fixed icons: system-file-manager.svg (apps 16, 22, 24, 32, 48, 64)
+
 

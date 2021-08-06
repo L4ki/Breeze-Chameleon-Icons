@@ -72,4 +72,9 @@ Changelog: 30.07.2021.
 
 Correction of icons: system-file-manager.svg (apps 16, 22, 24, 32, 48, 64)
 
+Changelog: 06.08.2021.
+---------------------
+
+Added new icons: actions (24)
+
 

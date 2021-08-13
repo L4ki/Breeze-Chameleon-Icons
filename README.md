@@ -77,4 +77,9 @@ Changelog: 06.08.2021.
 
 Added new icons: actions (24)
 
+Changelog: 13.08.2021.
+-----------------------
+
+Added new icons: actions (22)
+
 

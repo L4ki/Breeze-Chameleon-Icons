@@ -82,4 +82,11 @@ Changelog: 13.08.2021.
 
 Added new icons: actions (22)
 
+Changelog: 31.08.2021.
+----------------------
+
+Added "Breeze-Round-Chameleon Dark Icons" and "Breeze-Round-Chameleon Light Icons"
+
+
+
 

@@ -1,5 +1,5 @@
-# Breeze-Chameleon-Icons
-- Breeze Chameleon Icons (Dark and Light version)
+# Breeze-Chameleon-Icons and Breeze-Round-Chameleon Icons
+- (Dark and Light version)
 
 - The icons are based on the Default "Breeze" Icon Theme.
 

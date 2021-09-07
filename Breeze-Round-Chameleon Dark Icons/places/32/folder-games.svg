@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg12"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="folder-games.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   id="svg12"
+   version="1.1"
+   viewBox="0 0 32 32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -24,36 +24,31 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     id="namedview14"
-     showgrid="true"
-     inkscape:zoom="9.8125"
-     inkscape:cx="20.878003"
-     inkscape:cy="10.726948"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:document-rotation="0"
-     inkscape:lockguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid841" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="16"
+     inkscape:cx="15.974522"
+     inkscape:zoom="19.625"
+     showgrid="false"
+     id="namedview14"
+     inkscape:window-height="1007"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs3051">
     <style
-       type="text/css"
-       id="current-color-scheme">
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
         color:#31363b;
       }
@@ -90,32 +85,29 @@
       </style>
   </defs>
   <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="m 2,7 v 3 c -1,0 -1,0 -1,1 v 14 c 0,3 1,4 4,4 h 7 1 14 c 2.978306,0 4,-1 4,-4 V 8.9896483 9 C 31,8 31,8 30,8 30,5 28,5 25,5 H 16 C 16,5 16,3 14,3 H 6 C 2.9885736,3 2,4 2,7 Z"
-     class="ColorScheme-Highlight"
      id="path4"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     class="ColorScheme-Highlight"
+     d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
+     style="fill:currentColor;fill-opacity:1;stroke:none" />
   <path
-     style="fill-opacity:0.33;fill-rule:evenodd"
-     d="M 6,3 C 3,3 2,4.03267 2,7 v 3 h 9 L 13,8 H 30 C 30,5 28,5 25,5 h -9 c 0,0 0,-2 -2,-2 z"
      id="path6"
-     sodipodi:nodetypes="cccccccccc" />
+     d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
+     style="fill-opacity:0.33;fill-rule:evenodd" />
   <path
-     style="opacity:0.01;fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
-     d="m 14,3 1,3 H 27 V 5 H 16 c 0,0 0,-2 -2,-2 z m -1,5 -2,2 H 2 c -1,0 -1,0 -1,1 h 11 z"
      id="path8"
-     sodipodi:nodetypes="cccccccccccc" />
+     d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z "
+     style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd" />
   <path
-     style="fill-opacity:0.2;fill-rule:evenodd"
-     d="M 13,8 11,9 H 2 v 1 h 9 z M 1.738392,28 C 2.2760062,28.56082 3,29 5,29 h 22 c 1.852094,0 2.518009,-0.336138 3.224022,-1 z"
-     class="ColorScheme-Text"
      id="path10"
-     sodipodi:nodetypes="ccccccccccc" />
+     class="ColorScheme-Text"
+     d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z "
+     style="fill-opacity:0.2;fill-rule:evenodd" />
   <path
-     style="fill:#000000;fill-opacity:1"
-     d="m 12.4,14.7 a 2,4 0 0 0 -2,4 v 2.5 a 1.5,1.5 0 0 0 2.56,1.06 l 0.944,-0.943 a 1.5,1.5 0 0 0 0.996,0.383 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 2.498,1.12 l 0.941,0.94 A 1.5,1.5 0 0 0 22.4,21.2 v -2.5 a 2,4 0 0 0 -2,-4 z m 0,1 h 8 a 1,3 0 0 1 1,3 v 2.5 a 0.5,0.5 0 0 1 -0.854,0.354 L 18.693,19.7 H 18.4 v 0.5 a 0.5,0.5 0 0 1 -1,0 v -0.5 h -2 v 0.5 a 0.5,0.5 0 0 1 -1,0 v -0.5 h -0.293 l -1.853,1.854 A 0.5,0.5 0 0 1 11.4,21.2 v -2.5 a 1,3 0 0 1 1,-3 z"
+     style="fill:#eff0f1;fill-opacity:1"
+     d="m 12.336924,14.740435 a 2,4 0 0 0 -2,4 v 2.5 a 1.5,1.5 0 0 0 2.56,1.06 l 0.944,-0.943 a 1.5,1.5 0 0 0 0.996,0.383 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 2.498,1.12 l 0.941,0.94 a 1.5,1.5 0 0 0 2.561,-1.06 v -2.5 a 2,4 0 0 0 -2,-4 z m 0,1 h 8 a 1,3 0 0 1 1,3 v 2.5 a 0.5,0.5 0 0 1 -0.854,0.354 l -1.853,-1.854 h -0.293 v 0.5 a 0.5,0.5 0 0 1 -1,0 v -0.5 h -2 v 0.5 a 0.5,0.5 0 0 1 -1,0 v -0.5 h -0.293 l -1.853,1.854 a 0.5,0.5 0 0 1 -0.854,-0.354 v -2.5 a 1,3 0 0 1 1,-3 z"
      id="path21" />
   <path
-     d="m 13.282076,16.154927 v 1 h -1 v 1 h 1 v 1 h 1 v -1 h 1 v -1 h -1 v -1 z m 5.5,-0.1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m -1,1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m 2,0 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m -1,1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z"
-     id="path19" />
+     d="m 13.219,16.195362 v 1 h -1 v 1 h 1 v 1 h 1 v -1 h 1 v -1 h -1 v -1 z m 5.5,-0.1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m -1,1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m 2,0 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z m -1,1 a 0.6,0.6 0 0 0 -0.6,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 z"
+     id="path19"
+     style="fill:#eff0f1;fill-opacity:1" />
 </svg>

@@ -87,6 +87,11 @@ Changelog: 31.08.2021.
 
 Added "Breeze-Round-Chameleon Dark Icons" and "Breeze-Round-Chameleon Light Icons"
 
+Changelog: 07.09.2021.
+----------------------
+
+Fixed icon: folder-games.svg (32, 64)
+
 
 
 

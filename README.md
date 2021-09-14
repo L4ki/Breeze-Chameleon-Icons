@@ -92,6 +92,11 @@ Changelog: 07.09.2021.
 
 Fixed icon: folder-games.svg (32, 64)
 
+Changelog: 14.09.2021.
+----------------------
+
+Added new icons: status (16, 22, 24)
+
 
 
 

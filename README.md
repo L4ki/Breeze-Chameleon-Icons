@@ -105,6 +105,6 @@ Added new icons: status (22,24)
 Changelog: 29.09.2021
 ---------------------
 
-Added new icons: status (22,24)
+Added new icons: status (22, 24)
 
 

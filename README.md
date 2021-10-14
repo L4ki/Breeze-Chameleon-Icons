@@ -112,4 +112,9 @@ Changelog: 07.10.2021.
 
 Added new icons: mimetypes
 
+Changelog: 14.10.2021.
+----------------------
+
+Added new icons: mimetypes
+
 

@@ -1,60 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="32"
+   height="32"
    version="1.1"
-   id="svg36"
-   sodipodi:docname="x-office-drawing.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata40">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg35"
+   sodipodi:docname="application-vnd.oasis.opendocument.drawing-template.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
+     id="namedview37"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="848"
-     inkscape:window-height="480"
-     id="namedview38"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="3.9322034"
-     inkscape:cy="32"
+     inkscape:zoom="19.625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg36" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
   <defs
-     id="defs18">
+     id="defs13">
     <linearGradient
        id="b"
        y1="17"
-       x1="40"
-       y2="31"
+       y2="24"
+       x1="47"
+       x2="54"
        gradientUnits="userSpaceOnUse"
-       x2="54">
+       gradientTransform="translate(357.57,507.8)">
       <stop
          stop-color="#060606"
          id="stop2" />
@@ -66,18 +50,19 @@
     <linearGradient
        xlink:href="#a"
        id="c"
+       x1="5"
+       y1="30"
+       x2="5"
+       y2="2"
        gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="60.774"
-       x2="0"
-       y2="2.345" />
+       gradientTransform="translate(-20,-0.002)" />
     <linearGradient
        id="a"
        y1="392.36"
-       y2="336.36"
+       y2="365.36"
        x2="0"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(254 -254)">
+       gradientTransform="translate(309.57 152.44)">
       <stop
          stop-color="#fff"
          stop-opacity="0"
@@ -88,61 +73,58 @@
          stop-opacity=".2"
          id="stop10" />
     </linearGradient>
-    <linearGradient
-       id="d"
-       y1="17.475"
-       y2="31"
-       x1="41.616"
-       x2="54"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#b">
-      <stop
-         stop-color="#060606"
-         id="stop13" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop15" />
-    </linearGradient>
   </defs>
   <path
-     d="M 40,3 H 15 c -2.77,0 -5,2.23 -5,5 v 48 c 0,2.77 2.23,5 5,5 h 34 c 2.77,0 5,-2.23 5,-5 V 17 Z"
-     id="path20"
-     inkscape:connector-curvature="0"
-     style="fill:#febf10" />
+     d="M20 2H8C6.338 2 5 3.338 5 5v22c0 1.662 1.338 3 3 3h16c1.662 0 3-1.338 3-3V9z"
+     fill="#febf10"
+     id="path15" />
   <path
-     d="m 24,23 v 3 h 1 v 5.057 a 2.5,2.5 0 0 0 -2,2.443 2.5,2.5 0 0 0 2,2.446 v 5.05 h -1 v 3 h 3 v -3 h -1 v -3.53 a 13,10.5 0 0 0 12,6.53 13,10.5 0 0 0 1,-0.041 V 42.959 A 12,9.5 0 0 1 38,42.996 12,9.5 0 0 1 26.38,35.832 2.5,2.5 0 0 0 28,33.496 2.5,2.5 0 0 0 26.383,31.158 12,9.5 0 0 1 38,23.996 a 12,9.5 0 0 1 1,0.04 v -1.01 a 13,10.5 0 0 0 -1,-0.034 13,10.5 0 0 0 -12,6.512 v -3.512 h 1 v -3 z m 1,1 h 1 v 1 h -1 z m 0.5,8 A 1.5,1.5 0 0 1 27,33.5 1.5,1.5 0 0 1 25.5,35 1.5,1.5 0 0 1 24,33.5 1.5,1.5 0 0 1 25.5,32 M 25,42 h 1 v 1 h -1 z"
-     id="path22"
-     inkscape:connector-curvature="0"
-     style="color:#4d4d4d;opacity:0.9;fill:#ffffff;fill-rule:evenodd" />
+     d="M8 2c-.391 0-.658.277-1 .412v1.586H5.414c-.135.341-.411.608-.412.998v.002H7v2H5.002v1H7v2H5.002v1H7v2H5.002v1H7v2H5.002v1H7v2H5.002v1H7v2H5.002v1H7v2H5.002v1H7v2H5.412c.135.343.17.733.414 1H7v.59c.34.134.607.41.996.41H8v-1h2v1h1v-1h2v1h1v-1h2v1h1v-1h2v1h1v-1h2v1h1v-1h2v.59c.342-.135.733-.17 1-.414v-.176h.174c.244-.267.279-.657.414-1H26v-2h1v-1h-1v-2h1v-1h-1v-2h1v-1h-1v-2h1v-1h-1v-2h1v-1h-1v-2h1v-1h-1V9h-1v.998h-2V9h-1v.998h-2V2h-1v1.998h-2V2h-1v1.998h-2V2h-1v1.998h-2V2h-1v1.998H8zm0 2.998h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-9 3h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-9 3h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-15 3h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-15 3h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-15 3h2v2H8zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-15 3h2v2H8v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm-15 3h2v2H8v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1zm3 0h2v2h-2v-1z"
+     color="#000"
+     opacity=".15"
+     fill="#fff"
+     id="path17" />
+  <g
+     fill-rule="evenodd"
+     id="g27"
+     transform="translate(0,-0.002)">
+    <path
+       d="m 404.57,524.8 7,7 v -7 z"
+       opacity="0.1"
+       fill="url(#b)"
+       transform="translate(-384.57,-515.8)"
+       id="path19"
+       style="fill:url(#b)" />
+    <g
+       fill="#ffffff"
+       id="g25">
+      <path
+         d="m 11,10 v 3 h 1 v 1.65 a 1.5,1.5 0 0 0 -1,1.412 1.5,1.5 0 0 0 1,1.412 V 19 h -1 v 3 h 3 V 20.19 A 7,6 0 0 0 19,22 V 21 A 6,5 0 0 1 13.23,17.369 1.5,1.5 0 0 0 14,16.06 1.5,1.5 0 0 0 13.201,14.738 6,5 0 0 1 19,10.999 v -1 a 7,6 0 0 0 -5,1.803 V 9.999 Z m 1,1 h 1 v 1 h -1 z m 0,9 h 1 v 1 h -1 z"
+         color="#4d4d4d"
+         opacity="0.9"
+         id="path21" />
+      <path
+         d="M 27,9 20,2 v 7 z"
+         color="#000000"
+         opacity="0.5"
+         id="path23" />
+    </g>
+  </g>
   <path
-     d="M 40,3 H 15 C 12.23,3 10,5.23 10,8 V 9.014 A 5.005,5.005 0 0 1 11.46,5.474 4.989,4.989 0 0 1 15,4.015 H 40 V 4 Z"
-     id="path24"
-     inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#ffffff" />
+     d="M8 2a2.99 2.99 0 00-2.123.877c-.031.031-.02.09-.05.123H20V2z"
+     color="#000"
+     opacity=".5"
+     fill="#fff"
+     id="path29" />
   <path
-     d="M 54,54.86 A 5.004,5.004 0 0 1 52.54,58.398 4.989,4.989 0 0 1 49,59.86 H 15 A 5.005,5.005 0 0 1 11.46,58.4 4.989,4.989 0 0 1 10,54.86 V 56 c 0,2.77 2.23,5 5,5 h 34 c 2.77,0 5,-2.23 5,-5 z"
-     id="path26"
-     inkscape:connector-curvature="0"
-     style="opacity:0.25;fill-opacity:0.99199997" />
+     d="M5.826 29c.03.033.02.092.051.123A2.99 2.99 0 008 30h16a2.99 2.99 0 002.123-.877c.031-.031.02-.09.05-.123z"
+     color="#000"
+     opacity=".25"
+     id="path31" />
   <path
-     d="M 12.146,4 C 11.922,4.16 11.656,4.266 11.461,4.46 11.308,4.614 11.231,4.828 11.1,5 H 12 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 h -1.574 c 0.163,0.374 0.428,0.68 0.674,1 H 12 v 0.9 c 0.32,0.246 0.626,0.51 1,0.674 V 59 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 2 h 1 v -2 h 2 v 1.574 c 0.374,-0.163 0.68,-0.428 1,-0.674 V 59 h 0.9 c 0.246,-0.32 0.51,-0.626 0.674,-1 H 52 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -2 h -1 v 2 h -2 v -2 h -1 v 2 h -2 v -2 h -1 v 2 H 43 V 17 H 42.465 A 2.456,2.456 0 0 1 40.721,16.28 C 40.649,16.208 40.668,16.08 40.605,16 H 40 V 5 h 2 L 41,4 H 40 Z M 13,5 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 V 7 H 37 Z M 13,8 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -24,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -24,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -24,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -27,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m 3,0 h 2 v 2 h -2 v -1 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -36,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z"
-     id="path28"
-     inkscape:connector-curvature="0"
-     style="color:#000000;opacity:0.3;fill:#ffffff" />
-  <path
-     d="M 40,3 H 15 c -2.77,0 -5,2.23 -5,5 v 48 c 0,2.77 2.23,5 5,5 h 34 c 2.77,0 5,-2.23 5,-5 V 17 Z"
-     id="path30"
-     style="fill:url(#c)"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 40,3 V 14.535 A 2.456,2.456 0 0 0 42.465,17 H 54 Z"
-     id="path32"
-     inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd" />
-  <path
-     d="M 40.73,16.283 54,31 V 17 H 42.465 c -0.68,0 -1.29,-0.276 -1.735,-0.717 z"
-     id="path34"
-     style="opacity:0.2;fill:url(#d);fill-rule:evenodd"
-     inkscape:connector-curvature="0" />
+     d="M 20,1.998 H 7.9999999 c -1.662,0 -3,1.338 -3,3 v 22 c 0,1.662 1.338,3 3,3 H 24 c 1.662,0 3,-1.338 3,-3 v -18 z"
+     opacity="0.4"
+     fill="url(#c)"
+     id="path33"
+     style="fill:url(#c)" />
 </svg>

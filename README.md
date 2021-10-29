@@ -122,4 +122,9 @@ Changelog: 22.10.2021.
 
 Added new icons: mimetypes (16, 22, 24, 32, 64)
 
+Changelog: 29.10.2021.
+----------------------
+
+Added new icons: mimetypes (32, 64), status (symbolic)
+
 

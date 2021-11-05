@@ -127,4 +127,9 @@ Changelog: 29.10.2021.
 
 Added new icons: mimetypes (32, 64), status (symbolic)
 
+Changelog: 05.11..2021.
+----------------------
+
+Added new icons: apps
+
 

@@ -143,7 +143,7 @@ Changelog: 19.11..2021.
 
 Added new icons: actions (22)
 
-Changelog: 19.11..2021.
+Changelog: 26.11..2021.
 ----------------------
 
 Added new icons: actions (24)

@@ -167,4 +167,10 @@ Changelog: 18.12..2021.
 Added new icons: preferences
 
 
+Changelog: 25.12..2021.
+----------------------
+
+Added new icons: actions (24)
+
+
 

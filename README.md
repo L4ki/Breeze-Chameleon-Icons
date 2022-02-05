@@ -197,6 +197,19 @@ Changelog: 29.01..2022.
 
 Added new icons:  status (22)
 
+Changelog: 05.02..2022.
+----------------------
+
+Dark Icons
+-----------
+
+Added new icons: status (symbolic)
+
+Light Icons
+------------
+
+Added new icons: devices
+
 
 
 

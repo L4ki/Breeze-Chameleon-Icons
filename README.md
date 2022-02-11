@@ -210,6 +210,18 @@ Light Icons
 
 Added new icons: devices
 
+Changelog: 12.02..2022.
+----------------------
+
+Dark Icons
+-----------
+
+Added new icons: applets (256)
+
+Light Icons
+------------
+
+Added new icons: status (24)
 
 
 

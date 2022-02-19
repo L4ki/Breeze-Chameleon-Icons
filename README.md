@@ -223,5 +223,28 @@ Light Icons
 
 Added new icons: status (24)
 
+Changelog: 19.02..2022.
+----------------------
+
+Dark Icons
+-----------
+
+Added new icons: devices (16)
+
+Light Icons
+------------
+
+Breeze-Chameleon-LIght
+-----------------------
+
+Added new icons: actions (16)
+
+Breeze-Round-Chameleon-LIght
+----------------------------
+
+Added new icons: devices (16)
+
+
+
 
 

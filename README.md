@@ -244,6 +244,22 @@ Breeze-Round-Chameleon-LIght
 
 Added new icons: devices (16)
 
+Changelog: 26.02..2022.
+----------------------
+
+Dark Icons
+-----------
+
+Added new icons: devices (22)
+
+Light Icons
+------------
+
+Added new icons: emblems: (16,22, 24, symbolic)
+
+
+
+
 
 
 

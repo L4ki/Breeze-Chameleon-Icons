@@ -257,6 +257,18 @@ Light Icons
 
 Added new icons: emblems: (16,22, 24, symbolic)
 
+Changelog: 05.03..2022.
+----------------------
+
+Dark Icons
+-----------
+
+Added new icons: devices (24)
+
+Light Icons
+------------
+
+Added new icons: mimetypes (16)
 
 
 

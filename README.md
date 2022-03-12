@@ -270,6 +270,20 @@ Light Icons
 
 Added new icons: mimetypes (16)
 
+Changelog: 12.03..2022.
+----------------------
+
+Breeze Chameleon Dark and Light Icons
+-------------------------------------
+
+Added new icons: places
+
+Breeze Round Chameleon Dark and Light Icons
+--------------------------------------------
+
+Added new icons: devices (64)
+
+
 
 
 

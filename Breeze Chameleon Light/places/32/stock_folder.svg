@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
@@ -38,20 +38,20 @@
   </defs>
  <path 
      style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 6 L 4 11 L 4 20 L 3 20 L 3 21 L 3.0019531 21 C 3.0019031 21.004 3 21.008019 3 21.011719 L 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 61 21.011719 L 61 21 L 61 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
+     d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
      class="ColorScheme-Highlight"
      />
  <path 
      style="fill-opacity:0.33;fill-rule:evenodd"
-     d="M 4 6 L 4 11 L 4 20 L 22 20 L 26 16 L 60 16 L 60 11.009766 C 60 11.006766 59.998047 11.004 59.998047 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
+     d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
      />
  <path 
      style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
-     d="M 28 6 L 31 11 L 33 11 L 60 11 L 60 10 L 33 10 L 32 10 L 28 6 z M 26 16 L 22 20 L 3 20 L 3 21 L 23 21 L 26 16 z "
+     d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z "
      />
  <path 
      style="fill-opacity:0.2;fill-rule:evenodd"
-     d="M 26 16 L 20 19 L 4 19 L 4 20 L 22 20 L 26 16 z M 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 60 57 L 4 57 L 3 57 z "
+     d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z "
      class="ColorScheme-Text"
      />
 </svg>

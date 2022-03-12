@@ -33,7 +33,7 @@
      inkscape:zoom="9.8125"
      showgrid="false"
      id="namedview16"
-     inkscape:window-height="1015"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -105,5 +105,5 @@
      id="path12"
      class="ColorScheme-Background"
      d="M 23 27 L 23 28 L 23 46 L 23 47 L 35 47 L 41 41 L 41 27 L 23 27 z M 24 28 L 40 28 L 40 41 L 35 41 L 35 46 L 24 46 L 24 28 z "
-     style="fill:#e5e5e5;fill-opacity:1;stroke:none" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
 </svg>

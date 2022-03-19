@@ -283,6 +283,18 @@ Breeze Round Chameleon Dark and Light Icons
 
 Added new icons: devices (64)
 
+Changelog: 19.03..2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: mimetypes (16)
+
+Light Icons
+----------- 
+
+Added new icons: actions (16)
 
 
 

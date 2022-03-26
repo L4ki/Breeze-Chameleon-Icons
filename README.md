@@ -297,6 +297,11 @@ Light Icons
 Added new icons: actions (16)
 
 
+Changelog: 26.03..2022.
+----------------------
+
+Added new icons:  mimetypes (22)
+
 
 
 

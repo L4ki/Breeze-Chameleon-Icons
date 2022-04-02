@@ -303,6 +303,12 @@ Changelog: 26.03..2022.
 Added new icons:  mimetypes (22)
 
 
+Changelog: 02.04..2022.
+----------------------
+
+Added new icons:  mimetypes (32)
+
+
 
 
 

@@ -308,6 +308,11 @@ Changelog: 02.04..2022.
 
 Added new icons:  mimetypes (32)
 
+Changelog: 09.04..2022.
+----------------------
+
+Added new icons:  mimetypes (64)
+
 
 
 

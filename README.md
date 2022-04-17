@@ -316,7 +316,7 @@ Added new icons:  mimetypes (64)
 Changelog: 16.04..2022.
 ----------------------
 
-Added new icons:  devices (16, 22, 24,64)
+Added new icons:  devices (16, 22, 24, 64)
 
 
 

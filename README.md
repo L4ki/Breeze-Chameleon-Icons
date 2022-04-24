@@ -318,6 +318,11 @@ Changelog: 16.04..2022.
 
 Added new icons:  devices (16, 22, 24, 64)
 
+Changelog: 24.04..2022.
+----------------------
+
+Added new icons:  actions (16)
+
 
 
 

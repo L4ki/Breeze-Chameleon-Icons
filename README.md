@@ -323,6 +323,11 @@ Changelog: 24.04..2022.
 
 Added new icons:  actions (16)
 
+Changelog: 01.05..2022.
+----------------------
+
+Added new icons:  actions (22)
+
 
 
 

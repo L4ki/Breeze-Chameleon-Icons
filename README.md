@@ -383,5 +383,10 @@ Changelog: 14.07..2022.
 Added new icons:  actions 24
 
 
+Changelog: 22.07..2022.
+----------------------
+
+Added new icons:  places
+
 
 

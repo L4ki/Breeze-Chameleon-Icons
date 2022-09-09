@@ -418,5 +418,10 @@ Changelog: 02.09..2022.
 
 Added new icons: actions 22
 
+Changelog: 09.09..2022.
+----------------------
+
+Added new icons: actions 24
+
 
 

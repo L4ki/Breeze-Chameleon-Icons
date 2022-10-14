@@ -444,4 +444,11 @@ Changelog: 07.10.2022.
 Added new icons: apps
 
 
+Changelog: 14.10.2022.
+----------------------
+
+Added new icons: apps
+
+
+
 

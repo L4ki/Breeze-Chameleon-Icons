@@ -450,5 +450,11 @@ Changelog: 14.10.2022.
 Added new icons: apps
 
 
+Changelog: 21.10.2022.
+----------------------
+
+Added new icons: apps
+
+
 
 

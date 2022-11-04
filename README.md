@@ -460,6 +460,11 @@ Changelog: 28.10.2022.
 
 Added new icons: apps
 
+Changelog: 04.11.2022.
+----------------------
+
+Added new icons: apps 32, 48
+
 
 
 

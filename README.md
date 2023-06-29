@@ -671,6 +671,11 @@ Changelog: 22.06.2023.
 
 Added new icons: apps 32, 48
 
+Changelog: 29.06.2023.
+----------------------
+
+Added new icons: apps 32, 48
+
 
 
 

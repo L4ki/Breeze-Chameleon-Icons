@@ -692,7 +692,7 @@ Changelog: 20.07.2023.
 
 Added new icons: apps 32, 48
 
-Changelog: 27.07.2023.
+Changelog: 28.07.2023.
 ----------------------
 
 Added new icons: apps 32

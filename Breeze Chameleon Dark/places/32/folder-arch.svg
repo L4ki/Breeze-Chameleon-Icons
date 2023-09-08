@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-arch.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.4963299"
+     inkscape:cx="3.0012959"
+     inkscape:cy="9.3569813"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
+     class="ColorScheme-Highlight"
+     id="path1" />
+  <path
+     style="fill-opacity:0.33;fill-rule:evenodd"
+     d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
+     d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z "
+     id="path3" />
+  <path
+     style="fill-opacity:0.2;fill-rule:evenodd"
+     d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z "
+     class="ColorScheme-Text"
+     id="path4" />
+  <g
+     id="start-here-kde-5"
+     transform="matrix(0.12037189,0,0,0.12034545,-7.833479,-1.831534)"
+     inkscape:label="#start-here-kde"
+     style="fill:#e5e5e5;fill-opacity:1">
+    <g
+       id="22-22-start-here-kde-3-7-2-3"
+       style="fill:#e5e5e5;fill-opacity:1">
+      <g
+         transform="translate(-50.6,-139.51)"
+         id="g6-5-9-5"
+         style="fill:#e5e5e5;fill-opacity:1">
+        <g
+           transform="matrix(0.87464,0,0,0.87464,14.731,23.409)"
+           id="g4-3-1-6"
+           style="fill:#e5e5e5;fill-opacity:1">
+          <path
+             d="m 267.37919,278.39988 c -4.22843,10.36687 -6.77853,17.14835 -11.48667,27.20711 2.88646,3.05963 6.42926,6.62256 12.183,10.64698 -6.18578,-2.54545 -10.40576,-5.10106 -13.55898,-7.75272 -6.02514,12.5723 -15.46478,30.48095 -34.62028,64.89943 15.05616,-8.69194 26.72687,-14.05058 37.6037,-16.09538 -0.46709,-2.00878 -0.73255,-4.18174 -0.71451,-6.44878 l 0.0171,-0.48233 c 0.23896,-9.64603 5.25677,-17.06376 11.20096,-16.56014 5.94403,0.50366 10.56404,8.73597 10.32509,18.38199 -0.0449,1.81505 -0.24961,3.56115 -0.6073,5.18058 10.75902,2.10458 22.30519,7.44973 37.15723,16.0239 -2.92851,-5.39167 -5.54249,-10.25196 -8.03848,-14.8806 -3.93203,-3.04759 -8.03344,-7.01415 -16.39951,-11.30781 5.75023,1.49418 9.86726,3.21799 13.07652,5.14485 -25.38002,-47.25374 -27.43568,-53.53274 -36.13902,-73.96009 z"
+             id="path2-5-2-2"
+             style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.571647" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

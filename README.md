@@ -728,6 +728,11 @@ Changelog: 08.09.2023.
 
 Added new folder: 32, 64
 
+Changelog: 15.09.2023.
+----------------------
+
+Added new icons: 32, 48
+
 
 
 

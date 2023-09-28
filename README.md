@@ -739,6 +739,12 @@ Changelog: 22.09.2023.
 Added new icons: 32, 48
 
 
+Changelog: 29.09.2023.
+----------------------
+
+Added new icons: 32, 48
+
+
 
 
 

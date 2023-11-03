@@ -726,48 +726,48 @@ Added new icons: apps 32, 48
 Changelog: 08.09.2023.
 ----------------------
 
-Added new folder: 32, 64
+Added new folder: apps 32, 64
 
 Changelog: 15.09.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 22.09.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 
 Changelog: 29.09.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 06.10.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 13.10.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 20.10.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 27.10.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 Changelog: 03.11.2023.
 ----------------------
 
-Added new icons: 32, 48
+Added new icons: apps 32, 48
 
 
 

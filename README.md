@@ -800,6 +800,11 @@ Changelog: 16.12.2023.
 
 Added new icons: apps 32, 48
 
+Changelog: 23.12.2023.
+----------------------
+
+Added new icons: apps 32, 48
+
 
 
 

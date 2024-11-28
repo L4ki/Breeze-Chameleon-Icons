@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg10"
-   sodipodi:docname="tenacity.svg"
+   sodipodi:docname="org.tenacityaudio.Tenacity.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -165,7 +165,6 @@
      id="circle4-6" />
   <path
      d="M 14.639373,21.616689 H 5.544 C 5.25533,22.731272 5.4013301,24.683333 5.49,26.383311 h 9.149373 v 7.150001 h 4.6475 v -4.766624 h 4.647501 V 38.3 h 4.6475 v -7.15 h 4.6475 v -4.766689 h 9.294965 C 42.689009,24.183 42.68468,22.715687 42.524,21.616689 H 33.229374 V 16.85 h -4.6475 V 9.7 h -4.6475 v 9.533311 h -4.647501 v -4.766623 h -4.6475 z"
-     fill="url(#paint2_linear_1117_79)"
      id="path3-3"
      style="fill:#ffffff;fill-opacity:1;stroke-width:0.715"
      sodipodi:nodetypes="ccccccccccccccccccccccccc" />

@@ -6,7 +6,7 @@
 ../../preferences/32/preferences-desktop-multimedia.svg pattern-multimedia.svg
 ../../categories/32/applications-office.svg pattern-office.svg
 ../../preferences/32/preferences-system-network-server.svg pattern-server.svg
-../../preferences/32/yast-software.svg pattern-software-management.svg
+../../preferences/32/yast-software-group.svg pattern-software-management.svg
 ../../apps/32/kwrite.svg pattern-technical-writing.svg
 ../../categories/32/applications-internet.svg pattern-web-devel.svg
 yast.svg pattern-yast-devel.svg

@@ -213,14 +213,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="6.0714285"
+     inkscape:cx="6.0714286"
      inkscape:cy="20.178571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -274,11 +274,11 @@
        cx="8.5411577"
        d="" />
     <circle
+       id="circle832"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#424970;stroke-width:2.10957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="19.945217"
        cy="304.06668"
-       cx="24"
-       id="circle832"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#424970;stroke-width:2.10957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       cx="24" />
     <path
        id="path1211"
        style="fill:#45007e;fill-opacity:0.0695295;stroke:none;stroke-width:0.128268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

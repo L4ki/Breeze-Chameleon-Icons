@@ -5,8 +5,8 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg4294"
-   sodipodi:docname="distributor-logo-opensuse.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="zypp.gui.svg"
+   inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="14.440678"
-     inkscape:cy="24.101695"
+     inkscape:cy="24.305085"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,7 +36,7 @@
      id="surface1"
      transform="matrix(0.96122938,0,0,0.96122938,1.1113513,1.111407)">
     <path
-       style="fill:#00a489;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#009980;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 23.8125,4.960938 c 10.410156,0 18.851562,8.441406 18.851562,18.851562 0,10.410156 -8.441406,18.851562 -18.851562,18.851562 -10.410156,0 -18.851562,-8.441406 -18.851562,-18.851562 0,-10.410156 8.441406,-18.851562 18.851562,-18.851562 z m 0,0"
        id="path4287" />
     <path

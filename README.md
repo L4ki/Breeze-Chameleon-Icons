@@ -37,11 +37,9 @@ https://www.pling.com/p/1608766/
 Screenshots:
 ------------
 
-![Screenshot_20220719_153300](https://user-images.githubusercontent.com/45247573/210135674-994ef61a-0151-4d1b-a52b-ce044f909dba.png)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/1ab6ff28-f814-4a23-8ef5-dfb53e8f06ff" />
 
-![Screenshot_20220719_153136](https://user-images.githubusercontent.com/45247573/210135688-216c7e57-20d3-44d1-a8c0-a60dbd280d0b.png)
-
-![Screenshot_20210930_090149](https://user-images.githubusercontent.com/45247573/210135698-fa5557f9-a4b0-41c2-8025-054e20af1d1b.jpg)
+<img width="1920" height="1080" alt="21" src="https://github.com/user-attachments/assets/fac11ba2-0f47-42a9-a590-8a23ab6b02a1" />
 
 ![Screenshot_20220719_154230](https://user-images.githubusercontent.com/45247573/210135736-01fa6d52-9b8f-4d49-961b-7b2467bb2a4d.png)
 

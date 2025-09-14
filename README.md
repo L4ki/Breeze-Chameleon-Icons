@@ -1,4 +1,4 @@
-# Breeze-Chameleon-Icons and Breeze-Round-Chameleon Icons
+# Breeze-Chameleon-Icons, Breeze-Round-Chameleon Icons, Breeze-Chameleon-Symbolic-Dark Icons
 - (Dark and Light version)
 
 - The folders change color depending on the Color Scheme You Set

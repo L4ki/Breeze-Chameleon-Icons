@@ -37,6 +37,10 @@ https://www.pling.com/p/1608766/
 Screenshots:
 ------------
 
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/31c26751-a640-494c-80f3-4ba33dc30e07" />
+
+<img width="1920" height="1080" alt="Logo-2" src="https://github.com/user-attachments/assets/1a30a8e3-5266-4908-ab35-f0d0c3becabe" />
+
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/1ab6ff28-f814-4a23-8ef5-dfb53e8f06ff" />
 
 <img width="1920" height="1080" alt="21" src="https://github.com/user-attachments/assets/fac11ba2-0f47-42a9-a590-8a23ab6b02a1" />

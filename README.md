@@ -10,15 +10,15 @@
 Download:
 ----------
 
-https://store.kde.org/p/1281798/
+Breeze Chameleon Dark: https://store.kde.org/p/1281798/
 
-https://store.kde.org/p/1298508/
+Breeze Chameleon Light: https://store.kde.org/p/1298508/
 
-https://store.kde.org/p/1608771
+Breeze-Round-Chameleon Dark: https://store.kde.org/p/1608771
 
-https://www.pling.com/p/1608766/
+Breeze-Round-Chameleon Light: https://www.pling.com/p/1608766/
 
-https://store.kde.org/p/2320235
+Chameleon-Symbolic-Dark-Icons: https://store.kde.org/p/2320235
 
 
 <html>

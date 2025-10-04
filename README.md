@@ -18,6 +18,8 @@ https://store.kde.org/p/1608771
 
 https://www.pling.com/p/1608766/
 
+https://store.kde.org/p/2320235
+
 
 <html>
   <head>

@@ -5,7 +5,7 @@
    viewBox="0 0 48 48.000001"
    version="1.1"
    id="svg43"
-   sodipodi:docname="steam-native.svg"
+   sodipodi:docname="steamlink.svg"
    inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.4766084"
-     inkscape:cx="102.54247"
+     inkscape:cx="102.68628"
      inkscape:cy="49.329686"
      inkscape:window-width="1920"
      inkscape:window-height="998"
@@ -33,6 +33,17 @@
      inkscape:current-layer="svg43" />
   <defs
      id="defs19">
+    <linearGradient
+       id="linearGradient8">
+      <stop
+         style="stop-color:#054e87;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#9d7ed5;stop-opacity:1"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
     <linearGradient
        id="blue-gradient-5">
       <stop
@@ -426,7 +437,7 @@
        y2="1048.158" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#blue-gradient-5"
+       xlink:href="#linearGradient8"
        id="linearGradient7"
        x1="31.5"
        y1="59.017548"

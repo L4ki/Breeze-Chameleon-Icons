@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder-svg-symbolic22.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="52.545455"
+     inkscape:cx="10.990484"
+     inkscape:cy="11"
+     inkscape:window-width="2556"
+     inkscape:window-height="1364"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs3051"><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1
+      }
+      </style></defs><path
+     d="M 5.504,9.968 H 8.496 L 6.376,7.848 C 5.568,7.848 4.912,7.192 4.912,6.376 A 1.464,1.464 0 0 1 6.376,4.912 c 0.816,0 1.472,0.656 1.472,1.464 l 2.12,2.12 V 5.504 C 9.4,4.928 9.4,4 9.968,3.432 c 0.568,-0.576 1.496,-0.576 2.064,0 0.568,0.568 0.568,1.496 0,2.072 v 2.992 l 2.128,-2.12 c 0,-0.808 0.648,-1.464 1.464,-1.464 0.808,0 1.464,0.656 1.464,1.464 0,0.816 -0.656,1.472 -1.464,1.472 l -2.12,2.12 h 2.992 C 17.072,9.4 18,9.4 18.568,9.968 c 0.576,0.568 0.576,1.496 0,2.064 -0.568,0.568 -1.496,0.568 -2.072,0 h -2.992 l 2.12,2.128 c 0.808,0 1.464,0.648 1.464,1.464 a 1.464,1.464 0 0 1 -1.464,1.464 c -0.816,0 -1.464,-0.656 -1.464,-1.464 l -2.128,-2.12 v 2.992 c 0.568,0.576 0.568,1.504 0,2.072 -0.568,0.576 -1.496,0.576 -2.064,0 C 9.4,18 9.4,17.072 9.968,16.496 v -2.992 l -2.12,2.12 c 0,0.808 -0.656,1.464 -1.472,1.464 -0.808,0 -1.464,-0.656 -1.464,-1.464 0,-0.816 0.656,-1.464 1.464,-1.464 l 2.12,-2.128 H 5.504 C 4.928,12.6 4,12.6 3.432,12.032 2.856,11.464 2.856,10.536 3.432,9.968 4,9.4 4.928,9.4 5.504,9.968 Z"
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text" /></svg>

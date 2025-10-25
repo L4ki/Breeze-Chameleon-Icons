@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder-fluidd-symbolic16.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="72.25"
+     inkscape:cx="7.9930796"
+     inkscape:cy="8"
+     inkscape:window-width="2556"
+     inkscape:window-height="1364"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs3051"><style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style></defs><path
+     d="m 8,7.0983119 -6,-3.85848 6,-2.20869 6,2.20869 z m 3.04702,2.37797 -0.54277,0.45141 -2.13076,1.7707101 c -0.0323,0.0269 -0.0672,0.0511 -0.10211,0.0699 l -0.0107,0.005 -0.003,0.003 h -0.003 l -0.008,0.003 -0.005,0.003 -0.003,0.003 -0.005,0.003 h -0.003 c -0.0645,0.0269 -0.13435,0.043 -0.20152,0.0457 h -0.0537 c -0.0699,-0.003 -0.13704,-0.0188 -0.20153,-0.0457 h -0.003 l -0.008,-0.003 -0.005,-0.003 -0.008,-0.003 -0.008,-0.003 -0.005,-0.003 -0.0108,-0.005 c -0.0349,-0.0188 -0.0699,-0.043 -0.10211,-0.0699 L 4.77046,9.3231219 3.39205,10.217882 l 4.60815,4.57054 2.14151,-2.12271 2.2893,-2.27049 0.003,-0.003 z m -2.72458,-1.897 c -0.0108,0.008 -0.0215,0.0134 -0.0349,0.0215 -0.003,0 -0.005,0.003 -0.005,0.003 -0.0108,0.005 -0.0215,0.0134 -0.0349,0.0188 0,0 -0.003,0 -0.003,0.003 -0.0779,0.0376 -0.16121,0.0537 -0.24451,0.0537 -0.11017,0 -0.22302,-0.0349 -0.32244,-0.0994 l -2.80788,-1.80564 -2.1442,1.09628 5.27452,4.3878201 5.27721,-4.3878201 -2.14689,-1.09628 z"
+     id="path2"
+     class="ColorScheme-Text"
+     style="fill:currentColor" /></svg>
